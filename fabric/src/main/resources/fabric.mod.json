@@ -16,10 +16,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "io.github.manasmods.template.fabric.ExampleModFabric"
+      "io.github.manasmods.template.fabric.TemplateFabric"
     ],
     "client": [
-      "io.github.manasmods.template.fabric.client.ExampleModFabricClient"
+      "io.github.manasmods.template.fabric.client.TemplateFabricClient"
     ]
   },
   "mixins": [
