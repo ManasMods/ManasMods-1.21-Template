@@ -5,3 +5,7 @@ loom {
 dependencies {
 
 }
+
+remapJar {
+    atAccessWideners.add("${project.archives_name}.accesswidener")
+}
